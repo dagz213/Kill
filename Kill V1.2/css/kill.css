@@ -1,0 +1,55 @@
+body {
+	background: #A0EEF2;
+}
+
+#game {
+	display: block;
+	margin: -5px auto 0px;
+}
+
+#homingmissile {
+	display: block;
+	margin: -800px auto 0px;
+}
+
+#enemy {
+	display: block;
+	margin: -800px auto 0px;
+}
+
+#HUD {
+	display: block;
+	margin: -800px auto 0px;
+}
+
+#score {
+	position: absolute;
+	margin: 800px 550px 0px;
+	top: 10px;
+	left: 10px;
+}
+
+#warning {
+	position: absolute;
+	margin: 850px 550px 0px;
+	top: 10px;
+	left: 10px;
+}
+.menuScreen {
+	background: #eee url(../images/MenuScreen1.png);
+}
+.menuScreen2 {
+	background: #eee url(../images/MenuScreen2.png);
+}
+
+.helpScreen {
+	background: #eee url(../images/HelpScreen.png);
+}
+
+.deadScreen {
+	background: #eee url(../images/DeadScreen.png);
+}
+
+.playGame1 {
+	background: #eee url(../images/SeaTrial.png);
+}
